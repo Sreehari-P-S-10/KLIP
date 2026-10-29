@@ -1,0 +1,5791 @@
+{
+  "file_name": "Kanjikkuzhi Survey Data for analysis.xlsx",
+  "total_sheets": 23,
+  "sheet_names": [
+    "Kanjikuzhi Block Household  ...",
+    "family_member_details",
+    "bp_names",
+    "diabetes_names",
+    "cholesterol_names",
+    "insurance_details",
+    "insurance_schemes",
+    "pension_specify",
+    "dev_participation",
+    "outside_members_repeat",
+    "arts_and_sports",
+    "lungs_related_names",
+    "cancer_names",
+    "other_agri",
+    "heart_diseases_names",
+    "begin_repeat_U43y2Rngg",
+    "sea_fisher_details",
+    "arthritis_names",
+    "kidney_disease_names",
+    "disability_name_type",
+    "liver_disease_names",
+    "paralysis_names",
+    "mental_challenges_names"
+  ],
+  "sheets": {
+    "Kanjikuzhi Block Household  ...": {
+      "total_columns": 515,
+      "total_rows": 315,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "start_3SP1ORqZY",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "end_M2b5gLFyn",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "ഗ്രാമപഞ്ചായത്ത്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "വാർഡ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "A 5. താമസിക്കുന്ന വീട് നിങ്ങളുടെ സ്വന്തമാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "A 5.1. വീട് ഏതെങ്കിലും സർക്കാർ പദ്ധതി പ്രകാരമാണോ നിർമ്മിച്ചിരിക്കുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "A 6. വീടിന്റെ വിസ്തീർണ്ണം ചതുരശ്ര അടിയിൽ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "A 7. മുറികളുടെ എണ്ണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "A 8. വീടിന്റേത് ഏത് തരം മേൽക്കൂരയാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "A 9. ഉടമസ്ഥതയിലുള്ള ഭൂമിയുടെ ആകെ  (സെന്റ്)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "A 9.1  അതിൽ ബ്ലോക്ക് പഞ്ചായത്തിന് പുറത്തുള്ള ഭൂമിയുടെ വിസ്തൃതി (സെന്റ്)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "A 10. വീട്ടുവളപ്പിൽ കാവ്  ഉണ്ടെങ്കിൽ അതിന്റെ വിശദാംശങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "A 11. വീട്ടുവളപ്പിൽ കുളമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "A 12. വീട്ടുവളപ്പിൽ കിണർ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "A 13. വീട്ടുവളപ്പിൽ കുഴൽക്കിണർ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "A 14. റേഷൻ കാർഡ് തരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "A 15. വീട്ടിൽ പഠനാവശ്യത്തിനായി ലാപ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 18,
+          "raw_header": "A 16. ബ്രോഡ് ബാൻഡ് കണക്ഷൻ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 19,
+          "raw_header": "A 16.1. ഏത് സേവന ദാതാവാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 20,
+          "raw_header": "A 16.1. ഏത് സേവന ദാതാവാണ്?/കെ ഫോൺ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 21,
+          "raw_header": "A 16.1. ഏത് സേവന ദാതാവാണ്?/ബി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 22,
+          "raw_header": "A 16.1. ഏത് സേവന ദാതാവാണ്?/കേബിൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 23,
+          "raw_header": "A 16.1. ഏത് സേവന ദാതാവാണ്?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 24,
+          "raw_header": "A 16.1 (a) വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 25,
+          "raw_header": "A 17. നിങ്ങൾക്ക് തൊഴിലുറപ്പ്  പദ്ധതിയിൽ അംഗത്വമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 26,
+          "raw_header": "A 17.1. ഉണ്ടെങ്കിൽ ജോബ് കാർഡ് നമ്പർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 27,
+          "raw_header": "A 18. കുടുംബാംഗങ്ങളുടെ എണ്ണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 28,
+          "raw_header": "കുടുംബത്തിൽ ആരെങ്കിലും കേരളത്തിന് പുറത്തോ ഇന്ത്യയ്ക്ക് പുറത്തോ താമസിക്കുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 29,
+          "raw_header": "B 16. കുടുംബത്തിൽ ഭിന്നശേഷിയുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 30,
+          "raw_header": "C 1. ഉയർന്ന രക്തസമ്മർദ്ദമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 31,
+          "raw_header": "C 2. പ്രമേഹമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 32,
+          "raw_header": "C 3. കൊളസ്ട്രോൾ ഉള്ള ആർക്കെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 33,
+          "raw_header": "C 4. ഹൃദ്രോഗമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 34,
+          "raw_header": "C 5. പക്ഷാഘാതം ബാധിച്ച ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 35,
+          "raw_header": "C 6. വൃക്കരോഗമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 36,
+          "raw_header": "C 7. കരൾ രോഗമുള്ള ആർക്കെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 37,
+          "raw_header": "C 8. ആർത്രൈറ്റിസ് ഉള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 38,
+          "raw_header": "C 9. ശ്വാസകോശ സംബന്ധമായ പ്രശ്നങ്ങൾ ഉള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 39,
+          "raw_header": "C 10. ക്ഷയരോഗം (ടിബി) ഉള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 40,
+          "raw_header": "C 11. കുഷ്ഠരോഗമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 41,
+          "raw_header": "C 12. മാനസിക വെല്ലുവിളികൾ ഉള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 42,
+          "raw_header": "C 13. ആർക്കെങ്കിലും എച്ച്ഐവി_എയ്ഡ്സ് ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 43,
+          "raw_header": "C 14. ADHD ഉള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 44,
+          "raw_header": "C 15. കാൻസർ ബാധിച്ച ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 45,
+          "raw_header": "C 16അടുത്ത കുടുംബാംഗങ്ങൾക്കിടയിൽ കാൻസർ ചരിത്രം.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 46,
+          "raw_header": "C 16(a). ഉണ്ടെങ്കിൽ, വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 47,
+          "raw_header": "C 17. കുടുംബാംഗങ്ങളിൽ ആർക്കെങ്കിലും ആരോഗ്യ ഇൻഷുറൻസ് ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 48,
+          "raw_header": "D 1. കലാ-കായിക മേഖലകളിൽ പ്രാവീണ്യമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 49,
+          "raw_header": "E 1. കുടിവെള്ളത്തിന്റെ പ്രധാന ഉറവിടം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 50,
+          "raw_header": "E 1(a). മറ്റേതെങ്കിലും ആണെങ്കിൽ വ്യക്തമാക്കുക.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 51,
+          "raw_header": "E 1.1. കുടിവെള്ളത്തിന് മറ്റേതെങ്കിലും സ്രോതസ്സുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 52,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 53,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/പൈപ്പ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 54,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/കുഴൽക്കിണർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 55,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/കിണർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 56,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/പൊതു കിണർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 57,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/മഴവെള്ള സംഭരണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 58,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/പാക്കേജ്ഡ് കുടിവെള്ളം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 59,
+          "raw_header": "E 1.1(a). കുടിവെള്ളത്തിന്റെ മറ്റ് സ്രോതസ്സുകൾ/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 60,
+          "raw_header": "E 1.1(b). മറ്റേതെങ്കിലും ആണെങ്കിൽ വ്യക്തമാക്കുക.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 61,
+          "raw_header": "E 2. വർഷം മുഴുവനും ശുദ്ധജലം ലഭ്യമാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 62,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 63,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ജനുവരി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 64,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ഫെബ്രുവരി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 65,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/മാർച്ച്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 66,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ഏപ്രിൽ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 67,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/മെയ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 68,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ജൂൺ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 69,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ജൂലൈ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 70,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ഓഗസ്റ്റ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 71,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/സെപ്റ്റംബർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 72,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ഒക്ടോബർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 73,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/നവംബർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 74,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/ഡിസംബർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 75,
+          "raw_header": "E 2.1. ഇല്ലെങ്കിൽ, ഏതൊക്കെ മാസങ്ങളിലാണ് ലഭ്യല്ലാത്തത്?/വർഷം മുഴുവൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 76,
+          "raw_header": "E 2.2. വർഷം മുഴുവനും കുടിവെള്ളം ലഭ്യമല്ലെങ്കിൽ, നിങ്ങൾക്ക് എങ്ങനെ വെള്ളം ലഭിക്കും?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 77,
+          "raw_header": "E 3. കുടിവെള്ളത്തിന്റെ ഗുണനിലവാരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 78,
+          "raw_header": "E 4. ടോയ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 79,
+          "raw_header": "E 4(a). വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 80,
+          "raw_header": "E 5. ഖരമാലിന്യ നിർമാർജന സംവിധാനം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 81,
+          "raw_header": "E 5. ഖരമാലിന്യ നിർമാർജന സംവിധാനം/ബയോഗ്യാസ് പ്ലാന്റ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 82,
+          "raw_header": "E 5. ഖരമാലിന്യ നിർമാർജന സംവിധാനം/ബയോബിൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 83,
+          "raw_header": "E 5. ഖരമാലിന്യ നിർമാർജന സംവിധാനം/മണ്ണിര കമ്പോസ്റ്റ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 84,
+          "raw_header": "E 5. ഖരമാലിന്യ നിർമാർജന സംവിധാനം/പ്രത്യേക സംവിധാനമില്ല.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 85,
+          "raw_header": "E 6. വൈദ്യുതിയുടെ ഉറവിടം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 86,
+          "raw_header": "E 6. വൈദ്യുതിയുടെ ഉറവിടം/കെ.എസ്.ഇ.ബി.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 87,
+          "raw_header": "E 6. വൈദ്യുതിയുടെ ഉറവിടം/സോളാർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 88,
+          "raw_header": "E 6. വൈദ്യുതിയുടെ ഉറവിടം/കാറ്റാടി യന്ത്രം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 89,
+          "raw_header": "F 1. നിങ്ങൾ ഏതെങ്കിലും ക്ഷേമ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 90,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 91,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Indira Gandhi National Old Age Pension Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 92,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Indira Gandhi National Widow Pension Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 93,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Indira Gandhi National Disability Pension Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 94,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Pension for Unmarried Women above 50 years.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 95,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Agricultural Labour Pension.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 96,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Sthree Suraksha Pension",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 97,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Padavukal",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 98,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Mangalya",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 99,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Sahayahastham",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 100,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Ashwasakiranam",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 101,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Abayakiranam",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 102,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Vidhyakiranam",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 103,
+          "raw_header": "F 1.1. ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക/Other",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 104,
+          "raw_header": "F 1.1(a). മറ്റുള്ളവ ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 105,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 106,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Rehabilitation Scheme for landless people",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 107,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Padanamuri",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 108,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Financial assistance for widows of the sole breadwinner.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 109,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Medical Assistance – Maximum 1 Lakh.",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 110,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Lumpsom Grant",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 111,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Primary and  Secondary Aid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 112,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Ayyankali Scholarship Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 113,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Special Incentive awards/grants.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 114,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Fee Reimbursement for children studying in unaided schools",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 115,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Financial assistance for Overseas Employment.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 116,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Financial assistance for Self-Employment",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 117,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/SAFE Project – For house maintenance and repairs.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 118,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Financial assistance for Parallel College students.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 119,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Financial assistance for students studying in Private ITIs.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 120,
+          "raw_header": "F 2. നിങ്ങൾ ഈ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?/Other",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 121,
+          "raw_header": "F 2(a). മറ്റുള്ളവ ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 122,
+          "raw_header": "F 3. പെൻഷൻ ലഭിക്കുന്നവർ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 123,
+          "raw_header": "G 1. വീട്ടിലെ അംഗങ്ങൾ കുടംബശ്രീയിലോ മറ്റേതെങ്കിലും സ്വയം സഹായ സംഘത്തിലോ ഉൾപ്പെട്ടിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 124,
+          "raw_header": "G 1.1. കുടംബശ്രീ/സ്വയം സഹായ സംഘങ്ങളിൽ എത്ര കുടുംബാംഗങ്ങളുണ്ട്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 125,
+          "raw_header": "G 1.1(a). വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 126,
+          "raw_header": "G 1.2. കുടംബശ്രീ/സ്വയം സഹായ സംഘങ്ങളുടെ പ്രവർത്തനങ്ങളുടെ ഭാഗമായി ആരംഭിച്ച ഏതെങ്കിലും സംരംഭം ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 127,
+          "raw_header": "G 1.2(a). വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 128,
+          "raw_header": "H 1. നിങ്ങൾ ഏതെങ്കിലും കാർഷിക പ്രവർത്തനങ്ങളിൽ ഏർപ്പെടുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 129,
+          "raw_header": "H 2. നിങ്ങൾക്ക് കൃഷിഭൂമിയുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 130,
+          "raw_header": "H 3.1. ആകെ വിസ്തീർണ്ണം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 131,
+          "raw_header": "H 3.2. നിലം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 132,
+          "raw_header": "H 3.3. പുരയിടം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 133,
+          "raw_header": "H 4.1. ആകെ വിസ്തീർണ്ണം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 134,
+          "raw_header": "H 4.2. നിലം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 135,
+          "raw_header": "H 4.3. പുരയിടം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 136,
+          "raw_header": "H 5. പാട്ടത്തിനു കൃഷി ചെയ്യുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 137,
+          "raw_header": "H 6.1. ആകെ വിസ്തീർണ്ണം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 138,
+          "raw_header": "H 6.2. നിലം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 139,
+          "raw_header": "H 6.3. പുരയിടം (ഏക്കർ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 140,
+          "raw_header": "H 5. നിങ്ങൾ സംമിശ്ര ഫാമിംഗ് നടത്തുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 141,
+          "raw_header": "H 5(a). വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 142,
+          "raw_header": "H 6. അടുക്കള തോട്ടമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 143,
+          "raw_header": "H 6(a). വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 144,
+          "raw_header": "H 7. താഴെ പറയുന്ന ഏതെങ്കിലും കൃഷിരീതികൾ നിങ്ങൾ ഉപയോഗിക്കുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 145,
+          "raw_header": "H 7. താഴെ പറയുന്ന ഏതെങ്കിലും കൃഷിരീതികൾ നിങ്ങൾ ഉപയോഗിക്കുന്നുണ്ടോ?/Rooftop farming",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 146,
+          "raw_header": "H 7. താഴെ പറയുന്ന ഏതെങ്കിലും കൃഷിരീതികൾ നിങ്ങൾ ഉപയോഗിക്കുന്നുണ്ടോ?/Rainshed farming",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 147,
+          "raw_header": "H 7. താഴെ പറയുന്ന ഏതെങ്കിലും കൃഷിരീതികൾ നിങ്ങൾ ഉപയോഗിക്കുന്നുണ്ടോ?/Polyhouse farming",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 148,
+          "raw_header": "H 7. താഴെ പറയുന്ന ഏതെങ്കിലും കൃഷിരീതികൾ നിങ്ങൾ ഉപയോഗിക്കുന്നുണ്ടോ?/Greenhouse farming",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 149,
+          "raw_header": "H 7. താഴെ പറയുന്ന ഏതെങ്കിലും കൃഷിരീതികൾ നിങ്ങൾ ഉപയോഗിക്കുന്നുണ്ടോ?/No",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 150,
+          "raw_header": "വിള",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 151,
+          "raw_header": "അളവ് (എണ്ണം/ഭാരം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 152,
+          "raw_header": "ശരാശരി ഉത്പാദനം (വാർഷികം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 153,
+          "raw_header": "മറ്റ് വിശദാംശങ്ങൾ (പുരയിടമാണോ, പച്ചക്കറിയുടെയോ കിഴങ്ങുകളുടെയോ പേര് മുതലായവ ഉൾപ്പെടെ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 154,
+          "raw_header": "നാളികേരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 155,
+          "raw_header": "coconut_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 156,
+          "raw_header": "coconut_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 157,
+          "raw_header": "coconut_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 158,
+          "raw_header": "പച്ചക്കറി (പ്രധാന വിള 1)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 159,
+          "raw_header": "vegetable1_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 160,
+          "raw_header": "vegetable1_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 161,
+          "raw_header": "vegetable1_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 162,
+          "raw_header": "പച്ചക്കറി (പ്രധാന വിള 2)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 163,
+          "raw_header": "vegetable2_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 164,
+          "raw_header": "vegetable2_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 165,
+          "raw_header": "vegetable2_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 166,
+          "raw_header": "വാഴപ്പഴം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 167,
+          "raw_header": "banana_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 168,
+          "raw_header": "banana_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 169,
+          "raw_header": "banana_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 170,
+          "raw_header": "പയർവർഗ്ഗങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 171,
+          "raw_header": "legumes_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 172,
+          "raw_header": "legumes_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 173,
+          "raw_header": "legumes_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 174,
+          "raw_header": "കിഴങ്ങുകൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 175,
+          "raw_header": "tubers_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 176,
+          "raw_header": "tubers_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 177,
+          "raw_header": "tubers_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 178,
+          "raw_header": "ഇഞ്ചിയും മഞ്ഞളും",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 179,
+          "raw_header": "ginger_and_turmeric_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 180,
+          "raw_header": "ginger_and_turmeric_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 181,
+          "raw_header": "ginger_and_turmeric_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 182,
+          "raw_header": "ചെറുധാന്യങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 183,
+          "raw_header": "small_grain_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 184,
+          "raw_header": "small_grain_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 185,
+          "raw_header": "small_grain_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 186,
+          "raw_header": "കുരുമുളക്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 187,
+          "raw_header": "pepper_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 188,
+          "raw_header": "pepper_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 189,
+          "raw_header": "pepper_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 190,
+          "raw_header": "നെല്ല്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 191,
+          "raw_header": "paddy_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 192,
+          "raw_header": "paddy_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 193,
+          "raw_header": "paddy_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 194,
+          "raw_header": "ഔഷധ സസ്യങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 195,
+          "raw_header": "medicinalplants_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 196,
+          "raw_header": "medicinalplants_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 197,
+          "raw_header": "medicinalplants_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 198,
+          "raw_header": "കോളിഫ്ലവർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 199,
+          "raw_header": "cauliflower_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 200,
+          "raw_header": "cauliflower_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 201,
+          "raw_header": "cauliflower_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 202,
+          "raw_header": "പുഷ്പകൃഷി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 203,
+          "raw_header": "floriculture_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 204,
+          "raw_header": "floriculture_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 205,
+          "raw_header": "floriculture_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 206,
+          "raw_header": "തേക്ക്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 207,
+          "raw_header": "teak_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 208,
+          "raw_header": "teak_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 209,
+          "raw_header": "teak_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 210,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 211,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/പച്ചക്കറി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 212,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/വാഴപ്പഴം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 213,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/പയർവർഗ്ഗങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 214,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/കിഴങ്ങുകൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 215,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/ഇഞ്ചിയും മഞ്ഞളും",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 216,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/ചെറുധാന്യങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 217,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/കുരുമുളക്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 218,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/നെല്ല്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 219,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/ഔഷധ സസ്യങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 220,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/കോളിഫ്ലവർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 221,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/പുഷ്പകൃഷി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 222,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/തേക്ക്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 223,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/ചന്ദനം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 224,
+          "raw_header": "H 9. നിങ്ങൾ കൃഷി ചെയ്യാൻ ഇഷ്ടപ്പെടുന്ന വിളകൾ/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 225,
+          "raw_header": "H 10.1. സാങ്കേതികം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 226,
+          "raw_header": "H 10.1. സാങ്കേതികം/നൂതന സാങ്കേതിക വിദ്യ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 227,
+          "raw_header": "H 10.1. സാങ്കേതികം/കീടനാശിനി പ്രയോഗം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 228,
+          "raw_header": "H 10.1. സാങ്കേതികം/വളപ്രയോഗം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 229,
+          "raw_header": "H 10.1. സാങ്കേതികം/ആവശ്യം ഇല്ല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 230,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 231,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം/തെങ്ങു കയറ്റ യന്ത്രം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 232,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം/പുല്ല് വെട്ടി യന്ത്രം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 233,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം/മിനിഡ്രില്ലർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 234,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം/പമ്പ് സെറ്റ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 235,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം/മോട്ടോർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 236,
+          "raw_header": "H 10.2. യന്ത്രവൽക്കരണം/ആവശ്യം ഇല്ല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 237,
+          "raw_header": "H 10.3. മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 238,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 239,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/കുളം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 240,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/നദി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 241,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/മഴവെള്ള സംഭരണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 242,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/പൈപ്പ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 243,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/കുഴൽക്കിണർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 244,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/കിണർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 245,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/പൊതു കിണർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 246,
+          "raw_header": "H 11. ജലസേചന സ്രോതസ്സ്/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 247,
+          "raw_header": "H 11(a). മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 248,
+          "raw_header": "H 12. ജലസേചന രീതി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 249,
+          "raw_header": "H 12. ജലസേചന രീതി/മഴവെള്ളം നിറഞ്ഞത്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 250,
+          "raw_header": "H 12. ജലസേചന രീതി/ബേസിൻ ഇറിഗേഷൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 251,
+          "raw_header": "H 12. ജലസേചന രീതി/ഡ്രിപ്പ് ഇറിഗേഷൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 252,
+          "raw_header": "H 12. ജലസേചന രീതി/വെള്ളപ്പൊക്ക ജലസേചനം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 253,
+          "raw_header": "H 12. ജലസേചന രീതി/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 254,
+          "raw_header": "H 12(a). മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 255,
+          "raw_header": "H 13. നിങ്ങൾ കർഷക പെൻഷൻ/പിഎം കിസാൻ പദ്ധതികളുടെ ഗുണഭോക്താവാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 256,
+          "raw_header": "H 14. നിങ്ങൾ ഏതൊക്കെ സ്കീമുകളുടെ ഗുണഭോക്താവാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 257,
+          "raw_header": "H 14. നിങ്ങൾ ഏതൊക്കെ സ്കീമുകളുടെ ഗുണഭോക്താവാണ്?/പിഎം-കിസാൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 258,
+          "raw_header": "H 14. നിങ്ങൾ ഏതൊക്കെ സ്കീമുകളുടെ ഗുണഭോക്താവാണ്?/കർഷക പെൻഷൻ (സംസ്ഥാനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 259,
+          "raw_header": "H 14. നിങ്ങൾ ഏതൊക്കെ സ്കീമുകളുടെ ഗുണഭോക്താവാണ്?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 260,
+          "raw_header": "H 15. നിങ്ങൾ കതിർ ആപ്പിൽ (കൃഷി ഭവൻ) രജിസ്റ്റർ ചെയ്തിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 261,
+          "raw_header": "H 16. നിങ്ങൾ ഗ്രാമസഭയിൽ പങ്കെടുക്കാറുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 262,
+          "raw_header": "H 17. നിങ്ങൾ കാർഷിക പരിശീലന പരിപാടികളിൽ പങ്കെടുക്കാറുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 263,
+          "raw_header": "H 17(a). പരിശീലനത്തിന്റെ വിഷയങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 264,
+          "raw_header": "H 18. നിങ്ങൾ സൗജന്യ വൈദ്യുതി പദ്ധതിയിൽ അംഗമാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 265,
+          "raw_header": "H 19. കൃഷിപ്പണി സ്വന്തമായി ആണോ അതോ കൂലിക്ക് ആളെ നിർത്തിയിട്ടുള്ളതാണോ ചെയ്യുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 266,
+          "raw_header": "H 20. കർഷകത്തൊഴിലാളികളുടെ ലഭ്യത ആവശ്യത്തിന് ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 267,
+          "raw_header": "H 21. കൃഷിയാണോ നിങ്ങളുടെ പ്രധാന വരുമാന മാർഗ്ഗം?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 268,
+          "raw_header": "H 22. വാണിജ്യ അടിസ്ഥാനത്തിൽ കൃഷി ചെയ്യുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 269,
+          "raw_header": "H 22(a). വാണിജ്യ അടിസ്ഥാനത്തിൽ കൃഷി ചെയ്യുന്നുണ്ടെങ്കിൽ വിപണനം ഏതുരീതിയിൽ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 270,
+          "raw_header": "H 22(b). കാർഷിക വിഭവങ്ങൾ ബ്ലോക്കിനുള്ളിൽ ആണോ പുറത്താണോ കൂടുതൽ വിൽക്കപ്പെടുന്നത്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 271,
+          "raw_header": "H 22(c). വിപണനത്തിന് നേരിടുന്ന വെല്ലുവിളികൾ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 272,
+          "raw_header": "H 23. കാർഷിക ഉത്പന്നങ്ങളുടെ മൂല്യവർധനവുമായി ബന്ധപ്പെട്ട പ്രവർത്തികൾ (നിലവിൽ ചെയ്യുന്നത് /ചെയ്യാൻ താല്പര്യം ഉള്ളത് )",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 273,
+          "raw_header": "H 24. ഫാം ടൂറിസവുമായി ബന്ധപ്പെട്ട സാധ്യതകൾ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 274,
+          "raw_header": "H 25. കൃഷി, മൃഗസംരക്ഷണം, മത്സ്യകൃഷി തുടങ്ങിയവ ബന്ധപ്പെടുത്തിയുള്ള സംയോജിത കൃഷിയിൽ ഏർപ്പെട്ടിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 275,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 276,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/പശു",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 277,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/ആട്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 278,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/മത്സ്യകൃഷി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 279,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/തേനീച്ച വളർത്തൽ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 280,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/ഡക്ക്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 281,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/കോഴി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 282,
+          "raw_header": "H 26. ഏതൊക്കെ സംയോജിത കൃഷി പ്രവർത്തനങ്ങളാണ് ചെയ്യുന്നത്?/എരുമ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 283,
+          "raw_header": "H 27. ഏത് വളമാണ് കൂടുതൽ ഉപയോഗിക്കുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 284,
+          "raw_header": "H 27. ഏത് വളമാണ് കൂടുതൽ ഉപയോഗിക്കുന്നത്?/രാസവളം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 285,
+          "raw_header": "H 27. ഏത് വളമാണ് കൂടുതൽ ഉപയോഗിക്കുന്നത്?/ജൈവ വളം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 286,
+          "raw_header": "H 27. ഏത് വളമാണ് കൂടുതൽ ഉപയോഗിക്കുന്നത്?/രണ്ടും",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 287,
+          "raw_header": "H 28. ഉപയോഗിക്കുന്ന വളത്തിന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 288,
+          "raw_header": "H 29. പ്രകൃതിദത്ത/ജൈവ കൃഷിയിൽ താൽപ്പര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 289,
+          "raw_header": "H 30. കൃഷിയിടത്തിൽ യന്ത്രവൽക്കരണം ആവശ്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 290,
+          "raw_header": "H 31. അഗ്രി വർക്ക് ഫോഴ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 291,
+          "raw_header": "H 32. കൃഷിയിൽ നിന്നുള്ള ആകെ വാർഷിക വരുമാനം?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 292,
+          "raw_header": "H 33. കാർഷിക മേഖല നേരിടുന്ന പ്രധാന വെല്ലുവിളികൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 293,
+          "raw_header": "H 34. വീട്ടിൽ കന്നുകാലികൾ/വളർത്തുമൃഗങ്ങൾ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 294,
+          "raw_header": "H 34. വീട്ടിൽ കന്നുകാലികൾ/വളർത്തുമൃഗങ്ങൾ ഉണ്ടോ?/കന്നുകാലികൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 295,
+          "raw_header": "H 34. വീട്ടിൽ കന്നുകാലികൾ/വളർത്തുമൃഗങ്ങൾ ഉണ്ടോ?/വളർത്തുമൃഗങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 296,
+          "raw_header": "H 34. വീട്ടിൽ കന്നുകാലികൾ/വളർത്തുമൃഗങ്ങൾ ഉണ്ടോ?/ഇല്ല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 297,
+          "raw_header": "H 35. കന്നുകാലി വളർത്തൽ പ്രധാന വരുമാന മാർഗ്ഗങ്ങളിലൊന്നാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 298,
+          "raw_header": "മൃഗം/പക്ഷി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 299,
+          "raw_header": "നമ്പർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 300,
+          "raw_header": "ആട്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 301,
+          "raw_header": "<span style=\"display:none\">goat_native_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 302,
+          "raw_header": "ആട് (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 303,
+          "raw_header": "<span style=\"display:none\">goat_hybrid_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 304,
+          "raw_header": "എരുമ (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 305,
+          "raw_header": "<span style=\"display:none\">buffalo_native_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 306,
+          "raw_header": "എരുമ (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 307,
+          "raw_header": "<span style=\"display:none\">buffalo_hybrid_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 308,
+          "raw_header": "പശു (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 309,
+          "raw_header": "<span style=\"display:none\">cow_native_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 310,
+          "raw_header": "പശു (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 311,
+          "raw_header": "<span style=\"display:none\">cow_hybrid_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 312,
+          "raw_header": "കോഴി (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 313,
+          "raw_header": "<span style=\"display:none\">chicken_native_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 314,
+          "raw_header": "കോഴി (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 315,
+          "raw_header": "<span style=\"display:none\">chicken_hybrid_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 316,
+          "raw_header": "താറാവ് (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 317,
+          "raw_header": "<span style=\"display:none\">duck_native_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 318,
+          "raw_header": "താറാവ് (നാടൻ /സങ്കരയിനം)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 319,
+          "raw_header": "<span style=\"display:none\">duck_hybrid_num</span>",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 320,
+          "raw_header": "H 36. എവിടെ നിന്നാണ് തീറ്റ ലഭിക്കുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 321,
+          "raw_header": "H 37. മാർക്കറ്റിംഗ് എങ്ങനെയാണ് ചെയ്യുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 322,
+          "raw_header": "H 37. മാർക്കറ്റിംഗ് എങ്ങനെയാണ് ചെയ്യുന്നത്?/സഹകരണ സംഘം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 323,
+          "raw_header": "H 37. മാർക്കറ്റിംഗ് എങ്ങനെയാണ് ചെയ്യുന്നത്?/പ്രാദേശിക സ്വകാര്യ വെണ്ടർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 324,
+          "raw_header": "H 37. മാർക്കറ്റിംഗ് എങ്ങനെയാണ് ചെയ്യുന്നത്?/നേരിട്ട് ഉപഭോക്താക്കൾക്ക്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 325,
+          "raw_header": "H 37. മാർക്കറ്റിംഗ് എങ്ങനെയാണ് ചെയ്യുന്നത്?/വ്യക്തിഗത ഉപഭോഗം മാത്രം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 326,
+          "raw_header": "H 38. വെറ്ററിനറി സേവനം ലഭ്യമാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 327,
+          "raw_header": "H 39. ഒരു കൃത്രിമ ബീജസങ്കലന കേന്ദ്ര സേവനം ലഭ്യമാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 328,
+          "raw_header": "H 40. ചാണകം/ജൈവവളം ഉപയോഗിക്കാറുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 329,
+          "raw_header": "H 41. നിങ്ങളുടെ വീട്ടിലെ വളർത്തുമൃഗങ്ങൾ ഏതൊക്കെയാണെന്ന് വ്യക്തമാക്കുക.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 330,
+          "raw_header": "H 42. മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 331,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 332,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/കാലിത്തീറ്റ/തീറ്റയുടെ കുറവ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 333,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/ഉയർന്ന മരുന്നിന്റെയോ ചികിത്സയുടെയോ വില",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 334,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/കുറഞ്ഞ പാൽ/മാംസ വിളവ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 335,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/ശരിയായ വിപണി പ്രവേശനത്തിന്റെ അഭാവം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 336,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/പുറത്തുനിന്നുള്ള മൃഗങ്ങളുടെ ആക്രമണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 337,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/ഇടയ്ക്കിടെയുള്ള രോഗ പൊട്ടിപ്പുറപ്പെടലുകൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 338,
+          "raw_header": "H 43. മൃഗസംരക്ഷണത്തിൽ നേരിടുന്ന പ്രശ്നങ്ങൾ?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 339,
+          "raw_header": "H 44. മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 340,
+          "raw_header": "H 45. പുതിയ മൃഗസംരക്ഷണ പദ്ധതികളിൽ താൽപ്പര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 341,
+          "raw_header": "H 46. വളർത്തുമൃഗങ്ങൾക്കും/കന്നുകാലികൾക്കും വാക്സിനേഷൻ കൃത്യമായി നൽകുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 342,
+          "raw_header": "H 47. നിങ്ങൾ മത്സ്യകൃഷിയിൽ ഏർപ്പെടുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 343,
+          "raw_header": "H 48. മത്സ്യകൃഷിയുടെ തരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 344,
+          "raw_header": "H 48(a). മറ്റുള്ളവ ഉണ്ടെങ്കിൽ, വിശദാംശങ്ങൾ നൽകുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 345,
+          "raw_header": "H 49. മത്സ്യത്തിന്റെ ഇനം വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 346,
+          "raw_header": "H 50. നെൽകൃഷിയോടൊപ്പം മത്സ്യകൃഷിയും മാറിമാറി നടത്തുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 347,
+          "raw_header": "H 51. മത്സ്യബന്ധനത്തിന് പോകുന്ന ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 348,
+          "raw_header": "H 51.1. കടലിലാണോ കായലിലാണോ മീൻ പിടിക്കുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 349,
+          "raw_header": "H 51.2. സ്വന്തമായി ഒരു ബോട്ട് ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 350,
+          "raw_header": "H 51.2(a). സ്വന്തമായി ഒരു ബോട്ടുള്ള ഒരു സഹകരണ സംഘത്തിലെ അംഗമാണോ നിങ്ങൾ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 351,
+          "raw_header": "H 51.3. ദിവസവും ബോട്ടിൽ പോകാൻ പറ്റുമോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 352,
+          "raw_header": "H 51.4. മീൻപിടിത്തം കൂടുകയാണോ കുറയുകയാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 353,
+          "raw_header": "H 51.1(c). കക്കയാണോ മീനാണോ പിടിക്കുന്നത്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 354,
+          "raw_header": "H 51.1(c). കക്കയാണോ മീനാണോ പിടിക്കുന്നത്/കക്ക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 355,
+          "raw_header": "H 51.1(c). കക്കയാണോ മീനാണോ പിടിക്കുന്നത്/മീൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 356,
+          "raw_header": "I 1. ചെറിയ ബിസിനസ്സ് നടത്തുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 357,
+          "raw_header": "I 1.1. ബിസിനസ് തരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 358,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Content Creator",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 359,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Vlogger",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 360,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Homestay",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 361,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Bakery Unit",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 362,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Tailoring Unit",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 363,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Boutique",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 364,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Beauty Parlour / Salon",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 365,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Mobile Repair Shop",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 366,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Computer Service Center",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 367,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Printing & Photocopy Shop",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 368,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Tourism related",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 369,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Grocery Store",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 370,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Vegetable Shop",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 371,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Fish Stall",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 372,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Poultry Farm",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 373,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Dairy Farm",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 374,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Mushroom Cultivation",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 375,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Catering Service",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 376,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Homemade Food Business",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 377,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Tea / Juice Stall",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 378,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Fast Food Center",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 379,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Stationery Shop",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 380,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Gift Shop",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 381,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Handicraft Business",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 382,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Candle Making Unit",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 383,
+          "raw_header": "I 1.1. ബിസിനസ് തരം/Other",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 384,
+          "raw_header": "I 1.1(a). മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 385,
+          "raw_header": "I 1.2. ബിസിനസ് നയിക്കുന്ന ആളുടെ ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 386,
+          "raw_header": "I 1.2. ബിസിനസ് നയിക്കുന്ന ആളുടെ ജൻഡർ/Male",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 387,
+          "raw_header": "I 1.2. ബിസിനസ് നയിക്കുന്ന ആളുടെ ജൻഡർ/Female",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 388,
+          "raw_header": "I 1.2. ബിസിനസ് നയിക്കുന്ന ആളുടെ ജൻഡർ/Transgender",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 389,
+          "raw_header": "I 1.2. ബിസിനസ് നയിക്കുന്ന ആളുടെ ജൻഡർ/ജോയിന്റ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 390,
+          "raw_header": "I 1.3. ഉദ്യം രജിസ്ട്രേഷൻ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 391,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 392,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/MARGIN MONEY GRANT FOR NANO UNIT",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 393,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/MISSION 1000",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 394,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/ONE FAMILY ONE ENTERPRISE",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 395,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/PM VISHWAKARMA",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 396,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/Pradhan Mantri Formalisation of Micro Food Processing Enterprises Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 397,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/Entrepreneur Support Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 398,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/Prime Minister’s Employment Generation Programme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 399,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/Pradhan Mantri Vishwakarma Scheme",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 400,
+          "raw_header": "I 1.4. ഈ സ്കീമുകളിൽ ഏതെങ്കിലും ഒന്നിന്റെ ഗുണഭോക്താവാണോ നിങ്ങൾ?/No",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 401,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 402,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/ഭക്ഷ്യ & കാർഷിക സംസ്കരണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 403,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/തയ്യൽ & വസ്ത്രം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 404,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/കരകൗശല വസ്തുക്കൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 405,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/സേവന മേഖല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 406,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/കന്നുകാലികൾ/കോഴി വളർത്തൽ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 407,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/ചെറിയ ചില്ലറ വിൽപ്പനശാല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 408,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/കയർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 409,
+          "raw_header": "I 1.5. ബിസിനസ്സ് ഏത് മേഖലയിലാണ്?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 410,
+          "raw_header": "I 1.6. ബിസിനസിന്റെ വിശദാംശങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 411,
+          "raw_header": "I 1.7. ബിസിനസ്സിനായി തൊഴിലാളികളെ നിയമിക്കാറുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 412,
+          "raw_header": "I 1.7(a). തൊഴിലാളി തദ്ദേശീയനാണോ അതോ അതിഥി തൊഴിലാളിയാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 413,
+          "raw_header": "I 1.7. ബിസിനസിന് ബാങ്ക് വായ്പ ലഭിച്ചിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 414,
+          "raw_header": "I 1.8. മാർക്കറ്റിംഗ് സഹായം ആവശ്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 415,
+          "raw_header": "I 1.9. ഓൺലൈൻ വിൽപ്പനയിൽ താൽപര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 416,
+          "raw_header": "I 2. പുതിയ സംരംഭം തുടങ്ങാൻ താൽപര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 417,
+          "raw_header": "I 3. മുൻകാല സംരംഭങ്ങളിൽ ഏതെങ്കിലും പരാജയപ്പെട്ടിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 418,
+          "raw_header": "I 3.1. ഉണ്ടെങ്കിൽ, കാരണം വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 419,
+          "raw_header": "J 1. വീടിനടുത്തുള്ള റോഡിന്റെ അവസ്ഥ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 420,
+          "raw_header": "J 2തെരുവ് വിളക്കുകൾ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 421,
+          "raw_header": "J 4. ഈ പ്രദേശത്ത് യൂത്ത് ക്ലബ്ബുകൾ പ്രവർത്തിക്കുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 422,
+          "raw_header": "J 4.1. പ്രാഥമിക പ്രവർത്തനങ്ങൾ എന്തൊക്കെയാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 423,
+          "raw_header": "J 5. കായിക സൗകര്യങ്ങൾ ആവശ്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 424,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 425,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/ഫുട്ബോൾ ടർഫ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 426,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/ഇൻഡോർ ബാഡ്മിന്റൺ കോർട്ട്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 427,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/വോളിബോൾ കോർട്ട്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 428,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/ഓപ്പൺ ജിംനേഷ്യം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 429,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/ക്രിക്കറ്റ് പിച്ച്/ഗ്രൗണ്ട്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 430,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/പൊതു നീന്തൽക്കുളം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 431,
+          "raw_header": "J 5.1. ഏറ്റവും ആവശ്യമുള്ള കായിക സൗകര്യങ്ങൾ ഏതാണ്?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 432,
+          "raw_header": "J 5.1(a). മറ്റെന്തെങ്കിലും സൗകര്യങ്ങൾ ആവശ്യമുണ്ടോ എന്ന് ദയവായി വ്യക്തമാക്കുക.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 433,
+          "raw_header": "K 1. കുടുംബത്തിൽ സ്വയംതൊഴിൽ ചെയ്യുന്ന സ്ത്രീകൾ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 434,
+          "raw_header": "K 2. കുടുംബത്തിലെ സ്ത്രീകൾക്ക് എന്തെങ്കിലും തൊഴിൽ പരിശീലനമോ നൈപുണ്യ പരിശീലനമോ ലഭിച്ചിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 435,
+          "raw_header": "K 3. വീട്ടിൽ നിന്ന് ചെയ്യാൻ കഴിയുന്ന ജോലികൾ ചെയ്യാൻ സ്ത്രീകൾക്ക് താൽപ്പര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 436,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 437,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/സാമ്പത്തിക സഹായം / വായ്പകൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 438,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/മാർക്കറ്റിംഗ് പിന്തുണ (പ്രദർശനങ്ങൾ, ബ്രാൻഡിംഗ്)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 439,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/സാങ്കേതിക / യന്ത്ര പരിശീലനം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 440,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/ഡിജിറ്റൽ സാക്ഷരത / ഓൺലൈൻ വിൽപ്പന പിന്തുണ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 441,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/ലൈസൻസിംഗും രജിസ്ട്രേഷനും",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 442,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 443,
+          "raw_header": "K 4. കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടെങ്കിൽ \nഏതുതരം സഹായമാണ് പ്രത്യേകിച്ച് വേണ്ടത്?/ആവശ്യമില്ല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 444,
+          "raw_header": "K 5. കുടുംബത്തിൽ ഗർഭിണികളുണ്ടെങ്കിൽ, അവരുടെ എണ്ണം?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 445,
+          "raw_header": "K 6. കുടുംബത്തിൽ മുലയൂട്ടുന്ന സ്ത്രീകളുണ്ടെങ്കിൽ, അവരുടെ എണ്ണം?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 446,
+          "raw_header": "L 1. വീട്ടിൽ (18 വയസ്സിന് താഴെയുള്ള) കുട്ടികൾ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 447,
+          "raw_header": "L 2. സംയോജിത ശിശു വികസന പദ്ധതി (ICDS) പ്രകാരമുള്ള ഗുണഭോക്താവ് ആണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 448,
+          "raw_header": "L 3. അംഗൻവാടികളിൽ നിന്ന് അനുബന്ധ പോഷകാഹാരം ലഭിക്കുന്ന കുട്ടികളുടെ എണ്ണം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 449,
+          "raw_header": "L 4. കുട്ടികൾ അംഗൻവാടി സൗകര്യങ്ങൾ ഉപയോഗിച്ചിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 450,
+          "raw_header": "L 5. നിലവിൽ അംഗൻവാടി സൗകര്യങ്ങൾ ഉപയോഗിക്കുന്ന കുട്ടികൾ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 451,
+          "raw_header": "L 6. ഏതെങ്കിലും ക്ലബ്ബിൽ അംഗമായ കുട്ടികൾ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 452,
+          "raw_header": "L 6. ഏതെങ്കിലും ക്ലബ്ബിൽ അംഗമായ കുട്ടികൾ ഉണ്ടോ?/ബാലസഭ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 453,
+          "raw_header": "L 6. ഏതെങ്കിലും ക്ലബ്ബിൽ അംഗമായ കുട്ടികൾ ഉണ്ടോ?/ബാലവേദി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 454,
+          "raw_header": "L 6. ഏതെങ്കിലും ക്ലബ്ബിൽ അംഗമായ കുട്ടികൾ ഉണ്ടോ?/ഒരിക്കലുമില്ല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 455,
+          "raw_header": "L 6. ഏതെങ്കിലും ക്ലബ്ബിൽ അംഗമായ കുട്ടികൾ ഉണ്ടോ?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 456,
+          "raw_header": "L 7. കുട്ടികളുടെ വിദ്യാഭ്യാസം എപ്പോഴെങ്കിലും മുടങ്ങിയിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 457,
+          "raw_header": "L 7.1. പിന്നീട് അവ തുടർന്നോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 458,
+          "raw_header": "L 7.2. വിദ്യാഭ്യാസം തടസ്സപ്പെട്ടിട്ടുണ്ടെങ്കിൽ, കാരണം?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 459,
+          "raw_header": "L 7.3. തുടർന്നു പഠിക്കാൻ താല്പര്യം ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 460,
+          "raw_header": "L 8. കുട്ടികൾ അവരുടെ ഒഴിവു സമയം എങ്ങനെ ചെലവഴിക്കും?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 461,
+          "raw_header": "L 9. കുട്ടികൾക്ക് വായനാശീലമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 462,
+          "raw_header": "L 10. നിങ്ങളുടെ കുട്ടി ഒരു ദിവസം ശരാശരി എത്ര മണിക്കൂർ ഡിജിറ്റൽ ഉപകരണങ്ങളിൽ ചെലവഴിക്കുന്നു?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 463,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 464,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?/സ്കൂൾ വാഹനം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 465,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?/ഓട്ടോ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 466,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?/നടന്ന്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 467,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?/പൊതുഗതാഗതം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 468,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?/സൈക്കിൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 469,
+          "raw_header": "L 11. കുട്ടികൾ എങ്ങനെയാണ് സ്കൂളിൽ പോകുന്നത്?/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 470,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 471,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?/Water logging",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 472,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?/Flood related issues",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 473,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?/Drainage",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 474,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?/Waste management",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 475,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?/Stray dog issues",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 476,
+          "raw_header": "M 1. താഴെ കൊടുത്തിരിക്കുന്നതിൽ എന്തൊക്കെയാണ് നിങ്ങളുടെ പ്രദേശത്തെ പ്രശ്നങ്ങൾ ?/Crop failure",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 477,
+          "raw_header": "M 2. നിങ്ങളുടെ പഞ്ചായത്തിലെ വികസന പ്രവർത്തനങ്ങളിൽ പങ്കെടുക്കാൻ നിങ്ങൾക്ക് താൽപ്പര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 478,
+          "raw_header": "M 3. പഞ്ചായത്തിന്റെ വികസനത്തിനായി നിങ്ങളുടെ നിർദ്ദേശങ്ങൾ എന്തൊക്കെയാണ്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 479,
+          "raw_header": "വീടിന്റെ GPS ലൊക്കേഷൻ രേഖപ്പെടുത്തുക",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 480,
+          "raw_header": "_വീടിന്റെ GPS ലൊക്കേഷൻ രേഖപ്പെടുത്തുക_latitude",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 481,
+          "raw_header": "_വീടിന്റെ GPS ലൊക്കേഷൻ രേഖപ്പെടുത്തുക_longitude",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 482,
+          "raw_header": "_വീടിന്റെ GPS ലൊക്കേഷൻ രേഖപ്പെടുത്തുക_altitude",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 483,
+          "raw_header": "_വീടിന്റെ GPS ലൊക്കേഷൻ രേഖപ്പെടുത്തുക_precision",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 484,
+          "raw_header": "മറ്റേതെങ്കിലും അഭിപ്രായങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 485,
+          "raw_header": "സർവ്വേ നടത്തുന്ന ആളുടെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 486,
+          "raw_header": "സർവ്വേ നടത്തുന്ന ആളുടെ ഫോൺ നമ്പർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 487,
+          "raw_header": "start_Xp7li1jwD",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 488,
+          "raw_header": "start_JdKpPToUh",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 489,
+          "raw_header": "start_U2cITmojt",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 490,
+          "raw_header": "start_N2sDeQMfl",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 491,
+          "raw_header": "end_jhQF5iZn6",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 492,
+          "raw_header": "end_NOxcwT7k6",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 493,
+          "raw_header": "end_S3vTn1jXJ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 494,
+          "raw_header": "end_rF2Lallkk",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 495,
+          "raw_header": "A 12. വീട്ടുവളപ്പിൽ കിണർ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 496,
+          "raw_header": "A 13. വീട്ടുവളപ്പിൽ കുഴൽക്കിണർ ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 497,
+          "raw_header": "A 16.1 (a) വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 498,
+          "raw_header": "വൃക്കരോഗമുള്ള ആരെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 499,
+          "raw_header": "കരൾ രോഗമുള്ള ആർക്കെങ്കിലും ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 500,
+          "raw_header": "കുടിവെള്ളത്തിന്റെ മറ്റേതെങ്കിലും പ്രധാന സ്രോതസ്സ് വ്യക്തമാക്കുക.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 501,
+          "raw_header": "കുടിവെള്ളത്തിന് മറ്റേതെങ്കിലും സ്രോതസ്സുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 502,
+          "raw_header": "കുടുംബത്തിലെ വനിതാ സംരംഭകർക്ക് എന്തെങ്കിലും പിന്തുണയോ സഹായമോ ആവശ്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 503,
+          "raw_header": "കുടുംബത്തിൽ അനുബന്ധ പോഷകാഹാരം സ്വീകരിക്കുന്ന ഗർഭിണികളുണ്ടെങ്കിൽ, അവരുടെ എണ്ണം?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 504,
+          "raw_header": "കുടുംബത്തിൽ അനുബന്ധ പോഷകാഹാരം ലഭിക്കുന്ന മുലയൂട്ടുന്ന സ്ത്രീകളുടെ എണ്ണം, ഉണ്ടെങ്കിൽ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 505,
+          "raw_header": "_id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 506,
+          "raw_header": "_uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 507,
+          "raw_header": "_submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 508,
+          "raw_header": "_validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 509,
+          "raw_header": "_notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 510,
+          "raw_header": "_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 511,
+          "raw_header": "_submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 512,
+          "raw_header": "__version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 513,
+          "raw_header": "_tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 514,
+          "raw_header": "meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 515,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "family_member_details": {
+      "total_columns": 67,
+      "total_rows": 1184,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "B 1. കുടുംബനാഥയു/കുടുംബനാഥനു - മായുള്ള ബന്ധം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "B 2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "B 3. പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "B 4. രക്ത ഗ്രൂപ്പ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "B 5. വിഭാഗം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "B 6. ഉയർന്ന വിദ്യാഭ്യാസ യോഗ്യത",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "B 6.(a). മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "B 6.1. കോഴ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "B 6.1 (a) മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "B 6.2. കോഴ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "B 6.2 (a) മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "B 7. സ്കൂളിൽ പഠിക്കുന്നുണ്ടെങ്കിൽ പഠിക്കുന്ന ക്ലാസ് (പത്താം ക്ലാസ് വരെ)  / സ്പെഷ്യലൈസേഷൻ മേഖല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "B 8. ഉയർന്ന യോഗ്യത നേടിയ സ്ഥാപനത്തിന്റെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "B 9. നിങ്ങൾ എപ്പോഴെങ്കിലും ഒരു സ്വകാര്യ സ്ഥാപനത്തിൽ പഠിച്ചിട്ടുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "B 9.1. അതെ എങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക (ഏത് ക്ലാസ്സിൽ നിന്ന് ഏത് ക്ലാസ്സ് വരെ)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "B 10. വിദ്യാഭ്യാസ/തൊഴിൽ നില",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "B 10.1 എത്ര കാലമായി നിങ്ങൾ തൊഴിൽരഹിതനാണ് / തൊഴിൽരഹിതയാണ് ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 18,
+          "raw_header": "B 10.2. എന്തെങ്കിലും പ്രത്യേക കാരണമുണ്ടെങ്കിൽ സൂചിപ്പിക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 19,
+          "raw_header": "B 10.2. എന്തെങ്കിലും പ്രത്യേക കാരണമുണ്ടെങ്കിൽ സൂചിപ്പിക്കുക/താൽക്കാലിക ജോലി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 20,
+          "raw_header": "B 10.2. എന്തെങ്കിലും പ്രത്യേക കാരണമുണ്ടെങ്കിൽ സൂചിപ്പിക്കുക/ആരോഗ്യ കാരണങ്ങളാൽ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 21,
+          "raw_header": "B 10.2. എന്തെങ്കിലും പ്രത്യേക കാരണമുണ്ടെങ്കിൽ സൂചിപ്പിക്കുക/വിവാഹം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 22,
+          "raw_header": "B 10.2. എന്തെങ്കിലും പ്രത്യേക കാരണമുണ്ടെങ്കിൽ സൂചിപ്പിക്കുക/പ്രായമുള്ളവരെ/രോഗമുള്ളവരെ ശുശ്രൂഷിക്കുന്നതിനായി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 23,
+          "raw_header": "B 10.2. എന്തെങ്കിലും പ്രത്യേക കാരണമുണ്ടെങ്കിൽ സൂചിപ്പിക്കുക/Other",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 24,
+          "raw_header": "B 10.3. പരിശീലനം നേടിയ ശേഷം ജോലി ചെയ്യാൻ നിങ്ങൾക്ക് താൽപ്പര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 25,
+          "raw_header": "B 10.4. പ്രാദേശിക തൊഴിലവസരങ്ങളിൽ നിങ്ങൾക്ക് താൽപ്പര്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 26,
+          "raw_header": "B 10.5. പുതിയ സംരഭം തുടങ്ങാൻ താത്പര്യം ഉണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 27,
+          "raw_header": "B 10.6. പാർട്ട് ടൈം തൊഴിൽ, സീസണൽ ജോലി എന്നിവയുടെ വിശദാംശങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 28,
+          "raw_header": "B 11. നിങ്ങൾ നിലവിൽ പഠിച്ചു കൊണ്ടിരിക്കുകയാണെങ്കിൽ 'അതെ' എന്ന് നൽകുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 29,
+          "raw_header": "B 11.1. പഠന കോഴ്സ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 30,
+          "raw_header": "B 11.1(a) സ്കൂളിൽ പഠിക്കുകയാണെങ്കിൽ, അയൽപക്ക വിദ്യാലയത്തിൽ ആണോ (ഏറ്റവും അടുത്തുള്ള സ്കൂൾ) ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 31,
+          "raw_header": "B 11.1(b) മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 32,
+          "raw_header": "B 11.1(c) കോഴ്സിന്റെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 33,
+          "raw_header": "B 11.1(c1) മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 34,
+          "raw_header": "B 11.1(d) കോഴ്സിന്റെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 35,
+          "raw_header": "B 11.1(d1) മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 36,
+          "raw_header": "B 11.2. സ്കൂളിൽ പഠിക്കുന്നുണ്ടെങ്കിൽ പഠിക്കുന്ന ക്ലാസ് (പത്താം ക്ലാസ് വരെ)  / സ്പെഷ്യലൈസേഷൻ മേഖല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 37,
+          "raw_header": "B 11.3. നിങ്ങൾ നിലവിൽ പഠിക്കുന്ന സ്ഥാപനത്തിന്റെ തരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 38,
+          "raw_header": "B 11.3(a). മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 39,
+          "raw_header": "B 11.4. നിലവിൽ പഠിക്കുന്ന സ്ഥാപനത്തിന്റെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 40,
+          "raw_header": "B 12. ഏതെങ്കിലും മേഖലയിൽ നിങ്ങൾക്ക് നൈപുണ്യ വികസന പരിശീലനം ആവശ്യമുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 41,
+          "raw_header": "B 12.1. ഉണ്ടെങ്കിൽ, ഏത് മേഖലയിലാണ് വേണ്ടത്?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 42,
+          "raw_header": "B 13. തൊഴിൽ തരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 43,
+          "raw_header": "B 13.1. സ്വയം തൊഴിൽ സംബന്ധിച്ച വിശദാംശങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 44,
+          "raw_header": "B 13.1. സ്വയം തൊഴിൽ സംബന്ധിച്ച വിശദാംശങ്ങൾ/കൃഷി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 45,
+          "raw_header": "B 13.1. സ്വയം തൊഴിൽ സംബന്ധിച്ച വിശദാംശങ്ങൾ/Entrepreneurship",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 46,
+          "raw_header": "B 13.1. സ്വയം തൊഴിൽ സംബന്ധിച്ച വിശദാംശങ്ങൾ/Skilled work",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 47,
+          "raw_header": "B 13.1. സ്വയം തൊഴിൽ സംബന്ധിച്ച വിശദാംശങ്ങൾ/Unskilled work",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 48,
+          "raw_header": "B 13.1(a) വിശദാംശങ്ങൾ നൽകുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 49,
+          "raw_header": "B 14. പ്രതിമാസ വരുമാനം (₹)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 50,
+          "raw_header": "B 22. പാർട്ട് ടൈം തൊഴിൽ, സീസണൽ ജോലി എന്നിവയുടെ വിശദാംശങ്ങൾ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 51,
+          "raw_header": "B 28. കോഴ്സിന്റെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 52,
+          "raw_header": "B 29. മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 53,
+          "raw_header": "B 30. കോഴ്സിന്റെ പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 54,
+          "raw_header": "B 31. മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 55,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 56,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 57,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 58,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 59,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 60,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 61,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 62,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 63,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 64,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 65,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 66,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 67,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "bp_names": {
+      "total_columns": 15,
+      "total_rows": 141,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 1.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 1.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "diabetes_names": {
+      "total_columns": 15,
+      "total_rows": 86,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 2.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 2.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "cholesterol_names": {
+      "total_columns": 15,
+      "total_rows": 90,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 3.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 3.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "insurance_details": {
+      "total_columns": 15,
+      "total_rows": 162,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 17.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 17.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "insurance_schemes": {
+      "total_columns": 21,
+      "total_rows": 180,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 17.3. ഇൻഷുറൻസ് പദ്ധതി",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 17.3. ഇൻഷുറൻസ് പദ്ധതി/കാരുണ്യ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "C 17.3. ഇൻഷുറൻസ് പദ്ധതി/മെഡിസെപ്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "C 17.3. ഇൻഷുറൻസ് പദ്ധതി/സ്വകാര്യം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "C 17.3. ഇൻഷുറൻസ് പദ്ധതി/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "C 17.3. ഇൻഷുറൻസ് പദ്ധതി/ആരോഗ്യ ഇൻഷുറൻസ് ഇല്ല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "C 17.3(a). മറ്റേതെങ്കിലും ആണെങ്കിൽ, ഇൻഷുറൻസ് പദ്ധതി വ്യക്തമാക്കുക.",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "C 17.4. ഇത് എല്ലാ കുടുംബാംഗങ്ങളെയും ഉൾക്കൊള്ളുന്നുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 18,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 19,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 20,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 21,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "pension_specify": {
+      "total_columns": 19,
+      "total_rows": 210,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "F 3.1. പെൻഷന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "F 3.1. പെൻഷന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക/സർക്കാർ ക്ഷേമ പെൻഷൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "F 3.1. പെൻഷന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക/സർവീസ് പെൻഷൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "F 3.1. പെൻഷന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക/ഇൻഷുറൻസ് പെൻഷൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "F 3.1. പെൻഷന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക/എൻ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "F 3.1. പെൻഷന്റെ വിശദാംശങ്ങൾ വ്യക്തമാക്കുക/മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 18,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 19,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "dev_participation": {
+      "total_columns": 15,
+      "total_rows": 110,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "participant_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "M 2.2. മൊബൈൽ നമ്പർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "outside_members_repeat": {
+      "total_columns": 19,
+      "total_rows": 30,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "B 15.1 പേര്",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "B 15.2. സംസ്ഥാനം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "B 15.3. രാജ്യം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "B 15.4. തൊഴിൽ/വിദ്യാഭ്യാസം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "B 15.5. വൈദഗ്ധ്യമുള്ള മേഖല",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "B 15.6. ഫോൺ നമ്പർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 18,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 19,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "arts_and_sports": {
+      "total_columns": 14,
+      "total_rows": 38,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "D 1.1. വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "lungs_related_names": {
+      "total_columns": 15,
+      "total_rows": 34,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 9.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 9.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "cancer_names": {
+      "total_columns": 16,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 15.1കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 15.2ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "C 15.3. കാൻസറിന്റെ തരം വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "other_agri": {
+      "total_columns": 17,
+      "total_rows": 17,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "മറ്റുള്ളവ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "other_qty",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "other_production",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "other_details",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "heart_diseases_names": {
+      "total_columns": 15,
+      "total_rows": 44,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 4.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 4.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "begin_repeat_U43y2Rngg": {
+      "total_columns": 14,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "H 9 (a). മറ്റുള്ളവയാണെങ്കിൽ, വിശദാംശങ്ങൾ വ്യക്തമാക്കുക",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "sea_fisher_details": {
+      "total_columns": 15,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "H 51.1(a). വ്യക്തിയുടെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "H51.1(b)ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "arthritis_names": {
+      "total_columns": 15,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 8.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 8.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "kidney_disease_names": {
+      "total_columns": 17,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 6.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 6.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "C 6.3. ഡയാലിസിസ് ചെയ്യാറുണ്ടോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "C 6.3(a). ഡയാലിസിസ് ചെയ്യുന്നത് സ്വകാര്യ ആശുപത്രിയാണോ അതോ സർക്കാർ ആശുപത്രിയാണോ?",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "disability_name_type": {
+      "total_columns": 38,
+      "total_rows": 19,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "B 16.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "B 16.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "B 16.3. തരം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "B 16.3. തരം/Physical",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "B 16.3. തരം/Visual",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "B 16.3. തരം/Hearing",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "B 16.3. തരം/Vision",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "B 16.3. തരം/Leprosy",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "B 16.3. തരം/Movement Disability",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "B 16.3. തരം/Short stature (congenital growth deficiency)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "B 16.3. തരം/Intellectual disability",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "B 16.3. തരം/Mental illness",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "B 16.3. തരം/Autism",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "B 16.3. തരം/Cerebral palsy",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "B 16.3. തരം/Muscular tuberculosis",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 16,
+          "raw_header": "B 16.3. തരം/Long-term neurological diseases",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 17,
+          "raw_header": "B 16.3. തരം/Learning disabilities (e.g. Dyslexia)",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 18,
+          "raw_header": "B 16.3. തരം/Disease affecting the nervous system",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 19,
+          "raw_header": "B 16.3. തരം/Speech/language impairment",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 20,
+          "raw_header": "B 16.3. തരം/Blood disease",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 21,
+          "raw_header": "B 16.3. തരം/Blood clotting disorder",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 22,
+          "raw_header": "B 16.3. തരം/Sickle cell disease",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 23,
+          "raw_header": "B 16.3. തരം/Multiple disabilities",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 24,
+          "raw_header": "B 16.3. തരം/Acid attack survivors",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 25,
+          "raw_header": "B 16.3. തരം/Parkinson's disease",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 26,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 27,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 28,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 29,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 30,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 31,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 32,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 33,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 34,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 35,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 36,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 37,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 38,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "liver_disease_names": {
+      "total_columns": 15,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 7.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 7.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "paralysis_names": {
+      "total_columns": 15,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 5.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 5.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    },
+    "mental_challenges_names": {
+      "total_columns": 15,
+      "total_rows": 10,
+      "headers": [
+        {
+          "col_index": 1,
+          "raw_header": "C 12.1. കുടുംബാംഗത്തിന്റെ പ്രായം",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 2,
+          "raw_header": "C 12.2. ജൻഡർ",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 3,
+          "raw_header": "_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 4,
+          "raw_header": "_parent_table_name",
+          "is_sensitive_pii": true,
+          "storage_zone": "pii_vault"
+        },
+        {
+          "col_index": 5,
+          "raw_header": "_parent_index",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 6,
+          "raw_header": "_submission__id",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 7,
+          "raw_header": "_submission__uuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 8,
+          "raw_header": "_submission__submission_time",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 9,
+          "raw_header": "_submission__validation_status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 10,
+          "raw_header": "_submission__notes",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 11,
+          "raw_header": "_submission__status",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 12,
+          "raw_header": "_submission__submitted_by",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 13,
+          "raw_header": "_submission___version__",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 14,
+          "raw_header": "_submission__tags",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        },
+        {
+          "col_index": 15,
+          "raw_header": "_submission_meta/rootUuid",
+          "is_sensitive_pii": false,
+          "storage_zone": "core/analytics"
+        }
+      ]
+    }
+  }
+}
