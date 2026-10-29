@@ -129,7 +129,7 @@ CREATE TABLE IF NOT EXISTS core.person_wave_status (
     interested_in_local_jobs BOOLEAN DEFAULT FALSE,   -- B 10.4
     interested_in_new_enterprise BOOLEAN DEFAULT FALSE,-- B 10.5
     job_type_details VARCHAR(120),                    -- B 13 / B 13.1
-    monthly_income NUMERIC(10,2),                     -- B 14. പ്രതിമാസ വരുമാനം
+    monthly_income NUMERIC(14,2),                     -- B 14. പ്രതിമാസ വരുമാനം
     updated_at TIMESTAMPTZ DEFAULT NOW()
 );
 

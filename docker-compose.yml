@@ -34,7 +34,8 @@ services:
     container_name: klip_redis
     restart: unless-stopped
     ports:
-      - "6379:6379"
+      # Port 6380 is used to avoid conflict with existing local Redis on 6379
+      - "6380:6379"
     volumes:
       - klip_redisdata:/data
     networks:
