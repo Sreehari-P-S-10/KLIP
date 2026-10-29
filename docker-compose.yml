@@ -1,0 +1,57 @@
+services:
+  # ==============================================================================
+  # Primary Relational, Spatial & Vector Database (PostgreSQL 16 + PostGIS + pgvector)
+  # ==============================================================================
+  postgres:
+    image: postgis/postgis:16-3.4
+    container_name: klip_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: klip_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      # Port 5433 is used to avoid conflict with existing local PostgreSQL on 5432.
+      # If no local PostgreSQL is running, you can change this to "5432:5432".
+      - "5433:5432"
+    volumes:
+      - klip_pgdata:/var/lib/postgresql/data
+      # Auto-run SQL migrations on fresh container initialization
+      - ./database/migrations:/docker-entrypoint-initdb.d:ro
+    networks:
+      - klip_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d klip_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ==============================================================================
+  # In-Memory Cache & Asynchronous Task Queue (Redis 7)
+  # ==============================================================================
+  redis:
+    image: redis:7-alpine
+    container_name: klip_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - klip_redisdata:/data
+    networks:
+      - klip_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  klip_pgdata:
+    name: klip_postgres_data
+  klip_redisdata:
+    name: klip_redis_data
+
+networks:
+  klip_network:
+    name: klip_network
+    driver: bridge
